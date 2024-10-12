@@ -1,0 +1,12 @@
+*.o
+*.exe
+*.cmo
+*.cmi
+*.cmx
+*.c
+*.wasm
+*.out
+bin
+.envrc
+shell.nix
+*.dat
